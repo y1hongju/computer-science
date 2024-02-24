@@ -4,11 +4,11 @@
 
 ### Computer network
 
-1. 오리엔테이션
-2. 네트워크 엑세스 계층
-3. 네트워크 계층
-4. 전송 계층
-5. 응용 계층
+1. Orientation
+2. Network Access Layer
+3. Network Layer
+4. Transport Layer
+5. Application Layer
 
 ### Operating system
 
