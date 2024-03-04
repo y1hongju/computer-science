@@ -1,4 +1,6 @@
-# I love computer Science 💻
+# I love Computer Science 🙋🏻‍♂️💻❤️‍🔥
+
+Study the Computer Science subjects for 4 weeks.
 
 ## Subjects
 
@@ -20,7 +22,7 @@
 1. [Distributed Database](./database/ch06-distributed-database/)
 1. [NoSQL Database](./database/ch07-nosql-database/)
 
-### Week 3: Operating system
+### Week 3: Operating System
 
 ### Week 4: Data Structures & Algorithms
 
