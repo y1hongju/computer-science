@@ -1,4 +1,4 @@
-# I love Computer Science 🙋🏻‍♂️💻❤️‍🔥
+# I love Computer Science 🙋🏻‍♂️❤️‍🔥💻
 
 Study the Computer Science subjects for 4 weeks.
 
